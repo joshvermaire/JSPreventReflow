@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Trailing Spaces: Toggle Trailing Spaces",
+    "command": "toggle_js_prevent_reflow"
+  }
+]

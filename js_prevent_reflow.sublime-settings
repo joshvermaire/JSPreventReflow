@@ -1,0 +1,14 @@
+{
+  // Color is determined by scope
+  "js_prevent_reflow_highlight_color"     : "invalid",
+  // "js_show_reflow_highligh_color" : "#50B4E6",
+
+  // Max file size to search
+  "js_prevent_reflow_file_max_size"       : 1048576,
+
+  // By default plugin is enabled or disabled (true|false)
+  "js_prevent_reflow_enabled"             : true,
+
+  // By default empty lines are cleared
+  "js_prevent_reflow_include_empty_lines" : true
+}
