@@ -17,7 +17,7 @@ Go into your `Packages` subdirectory under ST2's data directory:
 
 Then clone this repository:
 
-    git clone git://github.com/SublimeText/TrailingSpaces.git
+    git clone git://github.com/joshvermaire/JSPreventReflow.git
 
 That's it!
 
